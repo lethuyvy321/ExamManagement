@@ -1,2 +1,4 @@
-# Web-QuickCheck
-Một web-site đơn giản để kiểm tra nhanh kỹ năng và kiến thức. Đưa ra đánh giá vs lời khuyển.
+# Web-PracticeExam_AutoSendResult
+Website thi thử với kho đề đa dạng, nhiều chủ đề, ngôn ngữ, môn học...
+Sử dụng WebAPI truyền nhận thông tin.
+Sử dụng SQL Server tổ chức lưu trữ dữ liệu
