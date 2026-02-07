@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ModelLibrary/ExamModelLibrary.csproj" Id="5bc77cd0-62d0-4443-aac9-335b6cdd24bf" />
+  <Project Path="WebAPI_ExamAPI.csproj" />
+</Solution>
